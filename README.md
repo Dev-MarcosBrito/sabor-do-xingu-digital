@@ -39,31 +39,3 @@ Este projeto explora conceitos modernos de <strong>componentização</strong>, <
   <li><strong>Lovable</strong> — ferramenta de desenvolvimento com IA para geração e deploy.</li>
 </ul>
 
----
-
-<h2>🛠️ Como Editar o Projeto</h2>
-
-<p><strong>1️⃣ Via Lovable:</strong></p>
-
-Acesse o projeto diretamente em  
-<a href="https://lovable.dev/projects/caa81e4f-0d0a-46e0-81a5-44b980c8acce" target="_blank">
-  <strong>Lovable Project →</strong>
-</a>  
-Faça as alterações por prompt e publique — as mudanças serão automaticamente salvas neste repositório.
-
-<p><strong>2️⃣ Via IDE Local:</strong></p>
-
-Clone o repositório e edite localmente com Node.js e npm instalados:
-
-```bash
-# Clone o repositório
-git clone <YOUR_GIT_URL>
-
-# Acesse o diretório
-cd <YOUR_PROJECT_NAME>
-
-# Instale as dependências
-npm i
-
-# Inicie o servidor de desenvolvimento
-npm run dev
