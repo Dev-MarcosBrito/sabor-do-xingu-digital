@@ -39,3 +39,12 @@ Este projeto explora conceitos modernos de <strong>componentização</strong>, <
   <li><strong>Lovable</strong> — ferramenta de desenvolvimento com IA para geração e deploy.</li>
 </ul>
 
+---
+
+<div align="center">
+
+Feito por <strong>Marcos Brito</strong>
+<br>
+<sub>“Um bom desenvolvedor entrega funcionalidades; um excelente desenvolvedor entrega conhecimento junto com o código.”</sub>
+
+</div>
