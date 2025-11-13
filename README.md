@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+<div align="center">
 
-## Project info
+# 🍽️ Sabor do Xingu Digital — Página Web em React
 
-**URL**: https://sabor-do-xingu-digital.lovable.app
+<p>
+Este repositório contém o <strong>deploy oficial</strong> do projeto <strong>Sabor do Xingu Digital</strong> — um site moderno, responsivo e desenvolvido com <strong>React.js</strong>, <strong>Vite</strong>, <strong>TypeScript</strong> e <strong>Tailwind CSS</strong>.  
+O projeto foi construído e hospedado com o auxílio da plataforma <strong>Lovable</strong>.
+</p>
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌐 Acesse o Site
 
-**Use Lovable**
+<a href="https://sabor-do-xingu-digital.lovable.app" target="_blank">
+  🔗 <strong>(https://sabor-do-xingu-digital.lovable.app)</strong>
+</a>
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/caa81e4f-0d0a-46e0-81a5-44b980c8acce) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+</div>
 
-**Use your preferred IDE**
+<h2>🧩 Sobre o Projeto</h2>
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+<p>
+O <strong>Sabor do Xingu Digital</strong> é uma vitrine digital que apresenta o sabor e a tradição gastronômica da região do Xingu, com foco em um design limpo e funcional.  
+Este projeto explora conceitos modernos de <strong>componentização</strong>, <strong>UX responsivo</strong> e <strong>integração via plataforma Lovable</strong>, permitindo edição tanto via prompt quanto por IDE local.
+</p>
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+<h2>🚀 Tecnologias Utilizadas</h2>
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+<ul>
+  <li><strong>React.js</strong> — construção de interfaces modernas e dinâmicas.</li>
+  <li><strong>Vite</strong> — build tool rápida e leve.</li>
+  <li><strong>TypeScript</strong> — tipagem estática e melhor manutenção do código.</li>
+  <li><strong>Tailwind CSS</strong> — estilização responsiva e baseada em utilitários.</li>
+  <li><strong>shadcn/ui</strong> — componentes acessíveis e elegantes para React.</li>
+  <li><strong>Lovable</strong> — ferramenta de desenvolvimento com IA para geração e deploy.</li>
+</ul>
+
+---
+
+<h2>🛠️ Como Editar o Projeto</h2>
+
+<p><strong>1️⃣ Via Lovable:</strong></p>
+
+Acesse o projeto diretamente em  
+<a href="https://lovable.dev/projects/caa81e4f-0d0a-46e0-81a5-44b980c8acce" target="_blank">
+  <strong>Lovable Project →</strong>
+</a>  
+Faça as alterações por prompt e publique — as mudanças serão automaticamente salvas neste repositório.
+
+<p><strong>2️⃣ Via IDE Local:</strong></p>
+
+Clone o repositório e edite localmente com Node.js e npm instalados:
+
+```bash
+# Clone o repositório
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Acesse o diretório
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# Instale as dependências
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Inicie o servidor de desenvolvimento
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/caa81e4f-0d0a-46e0-81a5-44b980c8acce) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
