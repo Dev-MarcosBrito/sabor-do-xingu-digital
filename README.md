@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/caa81e4f-0d0a-46e0-81a5-44b980c8acce
+**URL**: https://sabor-do-xingu-digital.lovable.app
 
 ## How can I edit this code?
 
